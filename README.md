@@ -13,15 +13,24 @@
 
 ---
 
-## 🌐 Portfolio
+<h2 align="center">🌐 Portfolio</h2>
+
 <p align="center">
   <a href="https://dnyan5424.github.io/Dnyandip-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20View%20Portfolio-Live-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀%20View%20My%20Portfolio-Live%20Website-black?style=for-the-badge" alt="Portfolio">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://dnyan5424.github.io/Dnyandip-portfolio/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
+  Building intelligent solutions with AI, Machine Learning, Data Science, and Web Development.
+</p>
+
+<p align="center">
+  ⭐ Explore my projects, skills, certifications, and achievements.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dnyan5424&label=Portfolio+Visitors&style=flat-square" alt="Visitors">
 </p>
 
 ## 🏆 About
