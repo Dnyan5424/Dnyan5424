@@ -29,9 +29,6 @@
   ⭐ Explore my projects, skills, certifications, and achievements.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dnyan5424&label=Portfolio+Visitors&style=flat-square" alt="Visitors">
-</p>
 
 ## 🏆 About
 💡 I turn complex problems into **scalable, intelligent, and user-focused systems**  
