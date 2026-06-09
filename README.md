@@ -20,6 +20,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://dnyan5424.github.io/Dnyandip-portfolio/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
+</p>
 
 ## 🏆 About
 💡 I turn complex problems into **scalable, intelligent, and user-focused systems**  
